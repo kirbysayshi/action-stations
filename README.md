@@ -4,7 +4,7 @@ Action-Stations!
 
 Action-Stations is a nodejs script that continually does the following:
 
-	inputs --->			checks --->			alerts ---> 			transports ---> you
+	inputs --->			checks --->			alerts ---> 			transports ---> 		you
 	get input data 		run data 			if checks are 			send that alert using
 						through checks		met, create alert 		a transport
 
